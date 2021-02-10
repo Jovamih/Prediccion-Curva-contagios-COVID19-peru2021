@@ -22,6 +22,6 @@ Estas fueron:
 
 ![Arquitectura del Primer Prototipo de Red](https://i.ibb.co/58ffTB9/model.png)
 ### El autor:
-* Johan Mitma, año 2021 UNMSM- Perú
+* Johan Valerio Mitma, 20 años UNMSM- Perú
 * IG: https://www.instagram.com/johan_mitma12/
 * Twt: https://twitter.com/JohanMitma12
